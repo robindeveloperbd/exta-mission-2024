@@ -1,0 +1,11 @@
+.container-section .content-area h1 {
+    font-size: 60px;
+    font-weight: 400;
+    margin: 0;
+}
+.orange-color {
+    color: orange;
+}
+.headline {
+    border-left: 5px solid orangered;
+}
